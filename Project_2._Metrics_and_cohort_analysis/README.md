@@ -1,4 +1,7 @@
 # Метрики и когортный анализ, оптимизация маркетинговых затрат Яндекс.Афиши
+
+Советую просматривать работу по этой ссылке: https://nbviewer.jupyter.org/github/GolovatskyN/Yandex.Practicum_projects/blob/main/Project_2._Metrics_and_cohort_analysis/Project_2._Metrics_and_cohort_analysis.ipynb
+
 ## Цель:
 На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается.
 ## Описание:
