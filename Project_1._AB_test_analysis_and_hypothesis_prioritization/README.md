@@ -1,4 +1,7 @@
 # Проект 1. Приоритизация гипотез и анализ A/B теста для интернет-магазина
+
+Советую просматривать работу по этой ссылке: https://nbviewer.jupyter.org/github/GolovatskyN/Yandex.Practicum_projects/blob/main/Project_1._AB_test_analysis_and_hypothesis_prioritization/Project_1._AB_test_analysis_and_hypothesis_prioritization.ipynb
+
 ## Цель: 
 Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами.
 ## Описание: 
