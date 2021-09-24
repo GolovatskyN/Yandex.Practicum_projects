@@ -1,4 +1,7 @@
 # Проверка гипотез, определение перспективного тарифа для телеком компании
+
+Советую просматривать работу по этой ссылке: https://nbviewer.jupyter.org/github/GolovatskyN/Yandex.Practicum_projects/blob/main/Project_3._Testing_statistical_hypotheses/Project_3._Testing_statistical_hypotheses.ipynb
+
 ## Цель:
 На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и определить перспективный тариф.
 ## Описание:
